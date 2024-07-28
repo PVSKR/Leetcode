@@ -22,14 +22,14 @@ class Solution {
         queue.offer(root);
         while(!queue.isEmpty()) {
             int levelNumber = queue.size();
-            List<Integer> level = new ArrayList<>();
+            List<Integer> levelNodes = new ArrayList<>();
             for(int i=0; i<levelNumber; i++) {
                 TreeNode current = queue.poll();
-                level.add(current.val);
+                levelNodes.add(current.val);
                 if(current.left != null) queue.offer(current.left);
                 if(current.right != null) queue.offer(current.right);
             }
-            result.add(level);
+            result.add(levelNodes);
         }
         return result;
     }
