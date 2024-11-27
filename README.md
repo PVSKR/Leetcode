@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/PVSKR/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0883-car-fleet](https://github.com/PVSKR/Leetcode/tree/master/0883-car-fleet) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/PVSKR/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/PVSKR/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/PVSKR/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/PVSKR/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/PVSKR/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/PVSKR/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -157,4 +159,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/PVSKR/Leetcode/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/PVSKR/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
