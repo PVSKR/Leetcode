@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PVSKR/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0287-find-the-duplicate-number](https://github.com/PVSKR/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0883-car-fleet](https://github.com/PVSKR/Leetcode/tree/master/0883-car-fleet) |
+| [1036-rotting-oranges](https://github.com/PVSKR/Leetcode/tree/master/1036-rotting-oranges) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/PVSKR/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/PVSKR/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/PVSKR/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/PVSKR/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/PVSKR/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/PVSKR/Leetcode/tree/master/0226-invert-binary-tree) |
+| [1036-rotting-oranges](https://github.com/PVSKR/Leetcode/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/PVSKR/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/PVSKR/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/PVSKR/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/PVSKR/Leetcode/tree/master/1036-rotting-oranges) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/PVSKR/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Shortest Path
 |  |
