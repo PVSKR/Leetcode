@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PVSKR/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/PVSKR/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/PVSKR/Leetcode/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/PVSKR/Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/PVSKR/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PVSKR/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/PVSKR/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PVSKR/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0189-rotate-array](https://github.com/PVSKR/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/PVSKR/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/PVSKR/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/PVSKR/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/PVSKR/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/PVSKR/Leetcode/tree/master/0189-rotate-array) |
 ## String Matching
 |  |
 | ------- |
