@@ -6,16 +6,16 @@ class Solution {
             m.put(nums[i], m.getOrDefault(nums[i], 0)+1);
         }
         for(int key: m.keySet()){
-            int count = m.getKey();
+            int count = m.get(key);
             if(bucket[count] == null) bucket[count] = new ArrayList<>();
             bucket[count].add(key);
         }
 
-        int[] ans = new int[nums.length];
+        int[] ans = new int[k];
         int index = 0;
-        for(int i= nums.length; i>0; i--) {
-            for(int val : bucket[i]){
-                if(bucket[i] != null) {
+        for(int i= nums.length; i>=0; i--) {
+            if(bucket[i] != null){
+                for(int val : bucket[i]) {
                     ans[index] = val;
                     index++;
                     if(index==k) return ans;
