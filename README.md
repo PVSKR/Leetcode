@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/PVSKR/Leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/PVSKR/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PVSKR/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/PVSKR/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/PVSKR/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Array
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PVSKR/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/PVSKR/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/PVSKR/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/PVSKR/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/PVSKR/Leetcode/tree/master/0883-car-fleet) |
 | [1036-rotting-oranges](https://github.com/PVSKR/Leetcode/tree/master/1036-rotting-oranges) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/PVSKR/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -73,10 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/PVSKR/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PVSKR/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/PVSKR/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/PVSKR/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/PVSKR/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/PVSKR/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Merge Sort
 |  |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PVSKR/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/PVSKR/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PVSKR/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/PVSKR/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/PVSKR/Leetcode/tree/master/0883-car-fleet) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/PVSKR/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Monotonic Stack
@@ -187,4 +192,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/PVSKR/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PVSKR/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PVSKR/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PVSKR/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
