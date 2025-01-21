@@ -11,6 +11,12 @@ class Solution {
                 map.put(num, map.get(num)-1);
             }
         }
-        return list.stream().mapToInt(a->a).toArray();
+        int[] ans = new int[list.size()];
+        int k = 0;
+        while(k < list.size()) {
+            ans[k] = list.get(k);
+            k++;
+        }
+        return ans;
     }
 }
