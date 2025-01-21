@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PVSKR/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/PVSKR/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PVSKR/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/PVSKR/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/PVSKR/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/PVSKR/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/PVSKR/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/PVSKR/Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/PVSKR/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
