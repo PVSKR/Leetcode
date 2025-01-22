@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PVSKR/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/PVSKR/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/PVSKR/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PVSKR/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/PVSKR/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PVSKR/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PVSKR/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/PVSKR/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/PVSKR/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/PVSKR/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/PVSKR/Leetcode/tree/master/0066-plus-one) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/PVSKR/Leetcode/tree/master/0036-valid-sudoku) |
 | [1036-rotting-oranges](https://github.com/PVSKR/Leetcode/tree/master/1036-rotting-oranges) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/PVSKR/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Shortest Path
