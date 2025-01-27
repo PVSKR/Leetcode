@@ -9,11 +9,10 @@ class Solution {
         // }
         // return ans;
 
-        Map<Integer, Integer> map = new HashMap<>();
+        Set<Integer> set = new HashSet<>();
         List<Integer> ans = new ArrayList<>();
         for(int i=0; i<nums.length; i++) {
-            map.put(nums[i], map.getOrDefault(nums[i],0)+1);
-            if(map.get(nums[i])>1) ans.add(nums[i]);
+            if(!set.add(nums[i])) ans.add(nums[i]);
         }
         return ans;
     }
