@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/PVSKR/Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/PVSKR/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/PVSKR/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Design
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/PVSKR/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/PVSKR/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/PVSKR/Leetcode/tree/master/0189-rotate-array) |
+| [0371-sum-of-two-integers](https://github.com/PVSKR/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## String Matching
 |  |
 | ------- |
