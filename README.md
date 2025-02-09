@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PVSKR/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PVSKR/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PVSKR/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/PVSKR/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/PVSKR/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PVSKR/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PVSKR/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PVSKR/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/PVSKR/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/PVSKR/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/PVSKR/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PVSKR/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/PVSKR/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/PVSKR/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/PVSKR/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/PVSKR/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PVSKR/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/PVSKR/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/PVSKR/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PVSKR/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/PVSKR/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/PVSKR/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/PVSKR/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/PVSKR/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/PVSKR/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/PVSKR/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PVSKR/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PVSKR/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PVSKR/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/PVSKR/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/PVSKR/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PVSKR/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0883-car-fleet](https://github.com/PVSKR/Leetcode/tree/master/0883-car-fleet) |
@@ -212,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/PVSKR/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/PVSKR/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/PVSKR/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/PVSKR/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/PVSKR/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## String Matching
 |  |
